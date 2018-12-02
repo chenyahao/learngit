@@ -1,4 +1,4 @@
-learngit# 先定义一个装饰函数（帽子）
+﻿learngit# 先定义一个装饰函数（帽子）
 # 再定义你的业务函数（人）
 # 最后把这顶帽子带在这个人头上
 
@@ -95,6 +95,9 @@ class logger1():
 @logger1(level="warning")
 def say(something):
     print("say {}!".format(something))
+
+Git is a distributed version control system.
+Git is free software.
 
 # say("hello")
 
