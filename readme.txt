@@ -117,3 +117,5 @@ class hh():
 def sya(something):
 	print("hahh{}".format(something))
 sya("hello")
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
